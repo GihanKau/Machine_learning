@@ -1,3 +1,3 @@
 # Machine_learning
-This repository includes all machine learning assignments
+# Following link contains a random forest classifier to classify the car evaluation database
 https://colab.research.google.com/drive/10xnpvSzANKIEHRDkTfDfdNibCdFvMhvL?usp=sharing
